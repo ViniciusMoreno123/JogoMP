@@ -29,7 +29,6 @@ function draw() {
   if (gameState === 1) {
     game.play();
   }
-  
 }
 
 function windowResized() {
